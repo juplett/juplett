@@ -18,3 +18,13 @@ I am hoping to start learning Python and C# in the near future.
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=15d3d)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=15d3d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=15d3d)
+
+## Stats
+
+<a href="https://github.com/juplett">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=juplett&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/juplett">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juplett&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
