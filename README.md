@@ -1,6 +1,6 @@
 ![code](img/code.jpg "code")
 
-## About me
+## About me.
 
 Hello, world. I am Judah Plett, I am a student at Shaftbury Hight as well as
 MITT(Manitoba Institute of Trades and Technologies) based in Winnipeg MB, Canada.
