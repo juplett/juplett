@@ -16,7 +16,6 @@ I am hoping to start learning Python in the near future.
 
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=15d3d)
-![](https://img.shields.io/badge/code-C#-informational?style=for-the-badge&logo=C#&logoColor=white&color=15d3d)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=15d3d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=15d3d)
 
